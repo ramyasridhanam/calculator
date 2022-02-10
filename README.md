@@ -15,3 +15,4 @@ To build, simply:
 2. Runs `npm test` to run Mocha and execute the unit tests.
 3. Run 'npm build'
 4. Using the azure pipeline to run the applcation
+5. Add the action
